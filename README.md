@@ -1,8 +1,46 @@
-- 👋 Hi, I’m @adil-143
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Mohd Adil Ansari (@adil-143)
+
+## 🚀 About Me  
+I’m a passionate **Software Engineer & Web Developer** with a strong foundation in **Java, Web Development, Data Structures & Algorithms**.  
+I love solving real-world problems through code and continuously learning new technologies.
+
+---
+
+## 👀 What I’m Interested In  
+- 🌐 Full-Stack Web Development (MERN Stack, Spring Boot)  
+- 🤖 Software Development 
+- 🧱 Data Structures & Algorithms  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced Java (Spring Boot, Microservices)  
+- Software Development
+- Database Management (MySQL, MongoDB)  
+
+
+---
+
+## 💞️ Let’s Collaborate On  
+- Open-source software development  
+- Innovative projects solving real-life challenges  
+- Web applications and API development  
+
+---
+
+## 📫 How to Reach Me  
+✉️ **Email**: [mohdadilansari143@gmail.com](mailto:maansari8710@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/mohd-adil-ansari]([https://www.linkedin.com/in/mohd-adil-ansari](https://www.linkedin.com/in/mohd-adil-ansari-284a7a24a/))  
+🐙 **GitHub**: [https://github.com/adil-143](https://github.com/adil-143)  
+
+---
+
+## 📊 GitHub Stats  
+![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adil-143&show_icons=true&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <!---
 adil-143/adil-143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
