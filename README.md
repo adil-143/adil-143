@@ -30,7 +30,7 @@ I love solving real-world problems through code and continuously learning new te
 
 ## 📫 How to Reach Me  
 ✉️ **Email**: [mohdadilansari143@gmail.com](mailto:maansari8710@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/mohd-adil-ansari]([https://www.linkedin.com/in/mohd-adil-ansari](https://www.linkedin.com/in/mohd-adil-ansari-284a7a24a/))  
+🔗 **LinkedIn**: [linkedin.com/in/mohd-adil-ansari]([https://www.linkedin.com/in/mohd-adil-ansari](https://www.linkedin.com/in/mohd-adil-ansari-284a7a24a))  
 🐙 **GitHub**: [https://github.com/adil-143](https://github.com/adil-143)  
 
 ---
