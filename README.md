@@ -36,7 +36,7 @@ I love solving real-world problems through code and continuously learning new te
 ---
 
 ## 📊 GitHub Stats  
-![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adil-143&show_icons=true&theme=radical)
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adil-143&theme=dracula)](https://github.com/adil-143)
 
 ---
 
